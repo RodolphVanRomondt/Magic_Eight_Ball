@@ -1,0 +1,26 @@
+.EightBall {
+    margin-top: 1rem;
+    width: 25rem;
+    height: 25rem;
+    background-color: white;
+    position: relative;
+}
+
+.EightBall-outerDiv {
+    width: 22rem;
+    height: 22rem;
+    border-radius: 50%;
+    position: absolute;
+    top: 1.5rem;
+    left: 1.5rem;
+}
+
+h3 {
+    text-align: center;
+    position: absolute;
+    width: 20rem;
+    height: 4rem;
+    top: 9rem;
+    left: 1rem;
+    text-shadow: 3px 3px 4px black, -3px -3px 4px black;
+}
